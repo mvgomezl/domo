@@ -1,1 +1,1 @@
-print('oki doki mi gatito')
+print('oki doki I <3 my cat')
